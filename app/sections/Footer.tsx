@@ -16,14 +16,14 @@ const Footer = () => {
                     className={"m-0 p-0"}
                 />
                 <div className="flex flex-col sm:flex-row  sm:gap-1 md:gap-2">
-                    <AnimatedBody text={"Design & Deployed by"} className={"m-0 p-0"} />
+                    <AnimatedBody text={"Создано"} className={"m-0 p-0"} />
                     <Link
-                        href="https://github.com/karthikmudunuri/eldoraui"
+                        href="https://iso6.ru"
                         target="_blank"
-                        aria-label="Eldora UI Github"
+                        aria-label="Алексеем Климец"
                     >
                         <span className="underline underline-offset-2 hover:no-underline">
-                            <AnimatedBody text={"karthikmudunuri"} className={"m-0 p-0"} />
+                            <AnimatedBody text={"klimets aleskey"} className={"m-0 p-0"} />
                         </span>{" "}
                     </Link>
                 </div>
