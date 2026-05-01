@@ -70,7 +70,7 @@ const Contact = () => {
                             aria-label="View linkedin Profile"
                         >
                             <AnimatedTitle
-                                text={"LINKEDIN "}
+                                text={"KLIMETS "}
                                 className={
                                     "text-[16px] font-bold text-[#e4ded7] sm:text-[20px] md:text-[16px] lg:text-[28px]"
                                 }
