@@ -11,6 +11,11 @@ import Color from "./components/overlay/Color";
 import NavBar from "./sections/NavBar";
 import Hero from "./sections/Hero";
 import About from "./sections/About";
+import Work from "./sections/Work";
+import Contact from "./sections/Contact";
+import Footer from "./sections/Footer";
+import Tools from "./sections/Tools.tsx";
+
 
 export default function Home() {
 
